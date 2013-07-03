@@ -1,0 +1,39 @@
+[submodule "zenburn-emacs"]
+	path = zenburn-emacs
+	url = https://github.com/bbatsov/zenburn-emacs.git
+[submodule "amelie-theme"]
+	path = amelie-theme
+	url = https://github.com/ranmocy/amelie-theme.git
+[submodule "molokai-theme"]
+	path = molokai-theme
+	url = https://github.com/hbin/molokai-theme.git
+[submodule "emacs-color-theme-solarized"]
+	path = emacs-color-theme-solarized
+	url = https://github.com/sellout/emacs-color-theme-solarized.git
+[submodule "emacs-purple-haze-theme"]
+	path = emacs-purple-haze-theme
+	url = https://github.com/jasonm23/emacs-purple-haze-theme.git
+[submodule "emacs-soothe-theme"]
+	path = emacs-soothe-theme
+	url = https://github.com/jasonm23/emacs-soothe-theme.git
+[submodule "noctilux-theme"]
+	path = noctilux-theme
+	url = https://github.com/stafu/noctilux-theme.git
+[submodule "emacs-leuven-theme"]
+	path = emacs-leuven-theme
+	url = https://github.com/fniessen/emacs-leuven-theme.git
+[submodule "jazz-theme"]
+	path = jazz-theme
+	url = https://github.com/donderom/jazz-theme.git
+[submodule "ir-black-theme.el"]
+	path = ir-black-theme.el
+	url = https://github.com/jmdeldin/ir-black-theme.el.git
+[submodule "zen-and-art-theme"]
+	path = zen-and-art-theme
+	url = https://github.com/developernotes/zen-and-art-theme.git
+[submodule "emacs-planet-theme"]
+	path = emacs-planet-theme
+	url = https://github.com/cmack/emacs-planet-theme.git
+[submodule "twilight-theme"]
+	path = twilight-theme
+	url = https://github.com/developernotes/twilight-theme.git
